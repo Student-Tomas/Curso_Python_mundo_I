@@ -9,23 +9,7 @@ if vel > limite:
 else:
     print('\033[32mTenha uma boa viagem!\033[m')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# esse algorítimo foi usado na primeira vez que fiz o mundo 01 do curso:
 '''vel = int(input('Qual a velocidade registrada? '))
 if vel <= 80:
     print('Tenha uma boa viagem!')
